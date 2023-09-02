@@ -1,4 +1,4 @@
 Target tahunan
-- 2022 Setidaknya bisa membuat sebuah website CRUD
-- 2023 Setidaknya dapat tahu sedikit tentang game engine
-- 2024 Setidaknya bisa membuat sebuah game
+- 2022 Setidaknya bisa membuat sebuah website CRUD (SELESAI) (https://vlyrics.biz.id)
+- 2023 Setidaknya dapat tahu sedikit tentang game engine (Berjalan)
+- 2024 Setidaknya bisa membuat sebuah game (Belum)
